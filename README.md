@@ -42,3 +42,24 @@
     </body>
 
 </html>
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    color: white;
+}
+body {background-color: pink;}
+p {font-size: 100%;}
+.p2 {text-align: center;}
+.p2 {font-size: small;}
+.p2 {color: pink;}
+ul {list-style-type: none;
+background-color: deeppink;
+border: 5px solid pink;
+}
+
+li{display: inline;
+padding-right: 7px;
+}
