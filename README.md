@@ -29,24 +29,8 @@
         </div>
 
         <pre>
-        <p>~ All too well ~</p>
+        <p>~ farauwofa ~</p>
         <p class="p2"> 
-            'Cause there we are again in the middle of the night
-            We're dancing 'round the kitchen in the refrigerator light
-            Down the stairs, I was there
-            I remember it all too well, yeah
-
-            And maybe we got lost in translation
-            Maybe I asked for too much
-            But maybe this thing was a masterpiece 'til you tore it all up
-            Running scared, I was there
-            I remember it all too well
-           
-            And maybe we got lost in translation
-            Maybe I asked for too much
-            But maybe this thing was a masterpiece 'til you tore it all up
-            Running scared, I was there
-            I remember it all too well
 
             
                 <br>
